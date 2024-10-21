@@ -11,12 +11,14 @@ class PersonTest {
 
         assertEquals(p.getName(), testName);
     }
+
     @Test
     void testSetName() {
         String testName = "Joe";
         Person p = new Person("foo", 5);
 
         p.setName(testName); //change to see failure...
+
         assertEquals(p.getName(), testName);
     }
 }
