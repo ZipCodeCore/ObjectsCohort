@@ -16,14 +16,17 @@ Build a Swing JFrame based Table UI in java. KISS.
 
 Start with Person class
 
-- name
-- birthdayDay
-- birthdayMonth
-- favoriteColor 
-- leftHandedWriter
-- rightHandedWriter
-- canDoVulcanGreeting
-- numberOfPets
+```java
+// fields (instance vars)
+String name;
+int birthdayDay;
+String birthdayMonth;
+String favoriteColor;
+boolean leftHandedWriter;
+boolean rightHandedWriter;
+boolean canDoVulcanGreeting;
+int numberOfPets;
+```
 
 need a list of the field names
 

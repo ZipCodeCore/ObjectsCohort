@@ -1,6 +1,6 @@
 public class Person {
     String name;
-    int age = 0;
+    int age = 0; // dont' need this
 
     String[] fieldNames = { "Name", "BirthDay",
             "BirthdayMonth", "FavoriteColor",
