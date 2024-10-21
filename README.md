@@ -1,6 +1,7 @@
 # ObjectsCohort
 
 a simple app to describe what coding looks like.
+adds a cohort class.
 
 Build a Swing JFrame based Table UI in java. KISS.
 
